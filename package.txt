@@ -1,0 +1,16 @@
+tsc --init
+npm init -y
+
+
+
+
+DevDependencies:
+npm i @types/node -D  
+npm i -D @types/chalk
+npm i -D @types/chalk-animation
+npm i -D @types/inquirer 
+
+
+Dependencies: 
+npm i inqurier  
+npm i chalk chalk-animation        
